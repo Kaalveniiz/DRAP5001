@@ -65,3 +65,6 @@ Maintain the document's dates, version, status, and revision history under [[../
 | Version | Date | Changes |
 |:--------|:-----|:--------|
 | 0 | 2026-10-23 | Completed the baseline guide covering slide content, speaking cues, and detailed preparation notes; Shine approved the guide as Final. |
+
+
+Changes---HY
