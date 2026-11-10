@@ -48,6 +48,7 @@ The brief does not prescribe chapter headings. The framework above is the struct
 
 ### Introduction
 
+
 #### Company description
 
 LipidArc Pharmaceuticals Ltd. is a fictional specialty pharmaceutical company founded in 2018 and headquartered in Hong Kong, with approximately 250 employees. It focuses on cardiovascular and metabolic diseases, with core capabilities in small-molecule development and oral solid dosage forms. Its intended regulatory markets are the United States, European Union, United Kingdom and China. The company’s operating scope covers API and tablet manufacturing, packaging, quality-control testing and release. Its functions include Research and Development, Manufacturing, Regulatory Affairs, Clinical and Safety, and a Quality Unit responsible for QA, QC and the QMS. Its lead programme is generic atorvastatin calcium tablets, 20 mg.
