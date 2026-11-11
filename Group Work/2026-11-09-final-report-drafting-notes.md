@@ -1,25 +1,107 @@
 # 2026-11-09 — Final Report Drafting Notes
 
 > **Created:** 2026-11-09  
-> **Last updated:** 2026-11-10  
-> **Version:** 1  
+> **Last updated:** 2026-11-11  
+> **Version:** 2  
 > **Status:** Final  
 > **Course:** Introduction to Medical Product Regulatory Science with Quality by Design  
 > **Purpose:** Preserve agreed decisions, oral-defence preparation, source limitations and remaining work separately from the report prose.  
-> **Related report:** [[2026-11-09-final-report-draft-memo]], Final, Version 1.  
+> **Related report:** [[2026-11-09-final-report-draft-memo]], Final, Version 2.  
 > **Tags:** #DRAP-5001 #group-work #final-report #drafting-notes
 
 ## Settled version and scope
 
-Shine confirmed both documents as Final, Version 1 on 2026-11-10 after Chapter 2 drafting, review, trimming and improvements informed by the oral-defence questions. This settles the current report content and these notes. Chapter 3, the conclusion and the remaining full-report checks listed below still require work.
+Shine confirmed both documents as Final, Version 2 on 2026-11-11 after Chapter 3 drafting, editorial review and improvements informed by five oral-defence questions. Version 1 settled Chapter 2 on 2026-11-10. This completed revision covers the current report content and consolidated notes; the conclusion and full-report checks listed below remain future work.
 
-The report contains the introduction, Chapter 1 (§§1.1–1.4) and Chapter 2 (§§2.1–2.5). The introduction and Chapter 1 were settled at version 0 on 2026-11-09. Chapter 2 retains two risk tables, numbered 3 and 4; study and control details are now prose.
+The report contains the introduction, Chapter 1 (§§1.1–1.4), Chapter 2 (§§2.1–2.5) and the settled Chapter 3 (§§3.1–3.5). The introduction and Chapter 1 were settled at version 0 on 2026-11-09. Chapter 2 retains two risk tables, numbered 3 and 4; study and control details are now prose. Section 3.1 introduces Table 5, assigning functional responsibilities; Section 3.2 adds Table 6, setting out the proposed quality-manual structure and supporting documents. Section 3.4 adds Table 7 with twenty audit questions and named supporting materials.
 
 - **Product and route:** Develop the 20 mg immediate-release, film-coated atorvastatin tablet using wet granulation. Carry wet processing and its downstream effects through studies, controls and QMS examples. The report's §2.1 and Question 2 below hold the ingredient-addition sequence.
 - **Regulatory scope:** The worked assessment is FDA-focused. Other markets in the fictional company profile are background ambitions. ICH guidance and applicable USP requirements support the US-facing assessment.
 - **API scope:** Treat atorvastatin calcium trihydrate as an input material. Include relevant identity, purity, potency, particle properties, solid form and moisture; do not develop API synthesis. The company profile's API-manufacturing capability does not establish outsourcing arrangements or expand this worked scope.
 - **Risk method:** Use project-defined qualitative investigation priorities with explicit scenarios, consequences, likelihood assumptions and uncertainty. Keep assumed baseline checks separate from future controls. Do not import numerical S/O/D scores or RPN cutoffs.
 - **Technical detail:** Formulation quantities, grades, addition split, equipment, operating settings, sampling and criteria require teammate review and supporting evidence. These are not values Shine is expected to invent.
+
+## Chapter 3 — settled decisions and review
+
+Shine settled Chapter 3 as part of Final, Version 2 on 2026-11-11 after subsection drafting, a grammar/clarity/repetition review and discussion of five oral-defence questions. The quality-manual structure replaces the presentation-style excerpt: the report gives headings, coverage and supporting-document examples, without writing a full manual. The original third-case instructions still require checking for assignment coverage.
+
+| Section | Settled content |
+|:--------|:----------------|
+| 3.1 QMS scope, organisation and responsibilities | FDA-focused scope; management accountability; Table 5's functional responsibilities; quality-unit authority and its distinction from QC laboratory testing; tablet-weight excursion example. |
+| 3.2 Quality documentation and document control | Table 6's seven-part manual structure; document types and process connections; version preservation, approval, effective dates, training, record integrity and retention; response to an incorrect approved instruction. |
+| 3.3 Implementation of lifecycle quality processes | Supplier/material management, monitoring, deviation/OOS investigation, CAPA effectiveness and change management; conditional examples involving magnesium stearate, drying, dissolution and a feeder fault. |
+| 3.4 Internal audit and follow-up | Risk-based scope and method; Table 7's twenty selected checks with named supporting materials; evidence assessment, deficiency grading and follow-up. |
+| 3.5 Management review and continual improvement | Stage-appropriate inputs, management decisions and resources, recorded actions and effectiveness review; recurring drying-deviation example and feedback to risk assessments and controls. |
+
+### Documentation and electronic controls
+
+The manual describes the system and links to supporting documents. SOPs define recurring workflows; specifications define tests and acceptance criteria; manufacturing instructions contain the formula, sequence and operating conditions; protocols define studies and criteria; completed records and reports preserve execution, evidence and decisions. Technical change management evaluates and authorises product/process changes, while document control governs the resulting instructions and records.
+
+Shine's internship experience informed the proposed electronic document-management system. Revisions are submitted as linked new versions, with routine-user overwrite/deletion restrictions, preserved historical versions, controlled access and protected, reviewed audit trails. The system is to be validated for its intended use. Records, metadata and audit trails remain available throughout required retention, with authorised disposal afterwards. No vendor, WORM storage or permanent-retention requirement is assumed. Section 3.4 verifies these arrangements through checklist items 12 and 15 and the revised drying-instruction example.
+
+Section 3.2 also addresses an incorrect approved instruction: the quality unit assesses suspension or authorised interim controls and the impact on affected batches. Required training and any practical competency assessment precede independent performance under a revised instruction, with records identifying its version.
+
+### Audit evidence and review decisions
+
+Every checklist item names supporting materials. The twenty items are explicitly a selected subset, not a complete audit programme. Completed records and underlying data support evidence of execution; blank forms alone do not. Auditors also observe activities and interview staff. Records for hypothetical incidents or changes are requested only if those events occurred; required missing evidence is investigated rather than automatically marked not applicable. PIC/S Critical, Major and Other are adopted as the project's internal grading method, while US GMP remains the benchmark. No completed audit, grades or compliance outcomes are invented.
+
+The editorial review standardised quality-unit terminology, clarified document timing and audit sampling, separated drying-deviation and dissolution-OOS examples, and aligned subsection headings. Repeated explanations were removed: §3.3 explains CAPA effectiveness, while §3.5 uses operational review summaries to support management decisions and resources. The proposed processes do not establish completed validation, successful CAPA, numerical operating limits or an approved design space. Review frequency and performance targets require justification rather than invented values.
+
+The oral-defence discussion led to three accepted additions: the general statement that repeated testing cannot itself improve batch quality or replace investigation; the response to an incorrect approved instruction; and training/competency requirements before independent task performance. The manual/document hierarchy and CAPA/management-review distinctions were already adequately covered.
+
+### Chapter 3 source basis
+
+Report reference 10 covers ICH Q10 scope, manual content, management responsibilities, lifecycle processes and management review, including §§2.6, 3.2.4 and 4.1–4.3. References 24–25, 28 and 30–31 support US GMP responsibilities and controls; reference 14 supports OOS investigation; reference 29 supports data integrity; reference 32 supports validation; and reference 33 supports the chosen deficiency classification. References 26–27 identify the company-manual comparisons below. These sources support the proposed arrangements, not evidence that LipidArc has implemented them.
+
+### Accepted comparison sources
+
+- **Main structural example:** [Sanofi Global Quality Manual, Version 5.0, November 2017](https://pharm-community.com/wp-content/uploads/wpforo/attachments/1223/173-Global-Quality-Manualv50Nov2017-sanofi.pdf), contents on printed pp. 4–5 and documentation hierarchy/types in §§6.2–6.3, pp. 23–24. Company-authored historical document accessed through a third-party copy; not evidence of current Sanofi arrangements. [Sanofi India's product list](https://www.sanofi.com/en/india/our-science/pharmaceutical-products) lists Cardace Protect, a ramipril–atorvastatin combination tablet. This establishes a related-product connection, not equivalence to LipidArc's formulation or process.
+- **Document-control comparison:** [AstraZeneca India local quality manual, Version 4.0, effective 22 April 2024](https://www.astrazeneca.in/content/dam/az-in/II-2024/MCOQ%20Quality%20Manual%20for%20AstraZeneca%20India.pdf), §2.4, pp. 13–14. The manual describes documentation oversight, current-version access and records, with references to a separate document-control SOP. Its local-market GMP/GDP scope differs from LipidArc's manufacturing project; do not import its software, frequencies or organisational details as requirements.
+- **Guideline basis:** [ICH Q10 §1.8, printed p. 4](https://database.ich.org/sites/default/files/Q10_Guideline.pdf): the manual or equivalent documentation describes quality policy, system scope, quality processes and their connections, and management responsibilities. Section 1.7 supports proportionate system design. Sources reviewed on 2026-11-11.
+
+## Chapter 3 oral defence — five questions and answers
+
+These answers consolidate the discussion and the accepted report clarifications. They describe the proposed QMS, not completed company activities.
+
+### Question 1 — Why are passing QC tests insufficient for release?
+
+**Professor's question:** Your quality unit includes QA and QC. Why is passing QC testing alone insufficient to release a batch, and who makes the disposition decision?
+
+**Answer:** Repeated testing cannot itself improve batch quality or replace investigation. The quality unit reviews relevant test results, manufacturing and packaging records, deviations and investigations before deciding disposition. A later passing result cannot by itself invalidate an earlier failure. QC testing supplies evidence within this wider decision process.
+
+**Basis:** Report §§2.5, 3.1 and 3.3; references 14, 24 and 25.
+
+### Question 2 — What belongs in the manual, an SOP and a batch record?
+
+**Professor's question:** Use drying control to explain how the quality manual and supporting documents connect without duplicating their contents.
+
+**Answer:** The manual describes policy, scope, responsibilities and connected processes. SOPs describe how activities are performed; specifications define tests and acceptance criteria; manufacturing instructions specify supported drying conditions; and completed batch records show which instruction version was used and what happened. Development or validation reports retain the scientific justification. Numerical details may appear in, or be referenced by, an SOP; the distinction is each document's function, not simply whether it contains numbers.
+
+**Basis:** Report §3.2 and Table 6; references 10 and 26–28.
+
+### Question 3 — How would you correct an approved instruction?
+
+**Professor's question:** If submitted versions cannot be overwritten or deleted by routine users, how would you correct an incorrect drying instruction that is already approved?
+
+**Answer:** Submit and approve a linked replacement, preserve the older version as history, withdraw it from routine use and coordinate the effective date and training. If the instruction is incorrect, the quality unit also assesses whether to suspend its use or introduce authorised interim controls and evaluates affected batches through the deviation process. A replacement document alone does not resolve the impact of earlier use. “Superseded” identifies the older version's status without erasing its historical role.
+
+**Basis:** Report §3.2 and Table 7 items 12 and 15; references 24–25 and 28–29.
+
+### Question 4 — How would you demonstrate that training works?
+
+**Professor's question:** Choose an audit item, identify its supporting evidence and explain how you would check actual practice. How would you treat a missing record?
+
+**Answer:** For training, check attendance or completion records linked to the relevant SOP version, assessments of understanding and any practical competency assessment. Observe task performance and examine completed records to assess application. Passing product-test results alone cannot establish that a person followed the procedure. Required missing evidence warrants investigation; it is not automatically “not applicable.” In this project, describe compliance with approved instructions and operating limits, because a design space has not been established.
+
+**Basis:** Report §3.2, §3.4 and Table 7 items 9 and 13; reference 31, including 21 CFR §211.25. Chapter 2 explains the limits of the proposed design-space evidence.
+
+### Question 5 — What if deviations recur after CAPA completion?
+
+**Professor's question:** Drying deviations continue although maintenance CAPA is marked complete. What should happen next, what should management decide, and what would support closure?
+
+**Answer:** Completion of an action does not establish effectiveness. Reassess the investigation, implementation and effectiveness evidence, including whether the recurring events have the same cause, and address product impact and interim controls. Management considers further studies, revised maintenance, equipment investment or staff capability. Closure depends on evidence meeting predefined effectiveness criteria. Change assessment determines the need and scope of requalification or revalidation; every workflow revision does not automatically require full revalidation.
+
+**Basis:** Report §§3.3–3.5 and Table 7 item 20; references 10 and 32.
 
 ## Chapter 2 oral defence — nine questions and answers
 
@@ -171,7 +253,7 @@ The wet-hold microbial pathway is a development hypothesis, distinct from the ci
 
 Shine instructed that dry granulation be discussed only in these notes. [Lyytikäinen et al., 2023, §2](https://doi.org/10.1016/j.ijpharm.2023.123509) describes roller compaction in the commercial process for Zentiva atorvastatin 10 mg tablets. This is an alternative commercial precedent; wet granulation remains our selected route. The reviewed sources do not establish that wet granulation is the most common industry route for atorvastatin. This source and the 2025 wet-processing study were checked on 2026-11-10.
 
-## Review outcome
+## Chapter 2 review outcome
 
 Chapter 2 was drafted in five sections, then reduced from approximately 3,665 to 1,936 words. The study and control tables were integrated into prose, leaving the two risk tables. Oral-defence review then clarified the route's expected benefit, addition-stage rationale, conditional purity rating, study order within High, and limits of equal moisture endpoints and passing experimental settings. The settled chapter is approximately 2,015 words, about 45% shorter than its first draft. Counts include headings/table text and exclude references and Markdown punctuation; they do not establish compliance with final page limits.
 
@@ -179,12 +261,12 @@ The nine-question guide retains the detailed defence, while this consolidated no
 
 ## Remaining work and next step
 
-1. **Draft Chapter 3 and the conclusion.** Explain production, QC and quality-unit responsibilities; training/documentation; deviation and OOS investigation; CAPA; change management; monitoring and review. Include the quality-manual excerpt and internal-audit checklist explicitly. Carry the wet route into change, deviation and audit examples. Use FDA quality-unit terminology.
+1. **Develop the conclusion.** Discuss how to draw together the quality objectives, proposed development/control strategy and QMS, while acknowledging remaining development needs. Chapter 3 drafting, editorial review and the accepted oral-defence clarifications are complete for Version 2.
 2. **Align earlier report scope and priorities.** Revise the introduction/§1.1 promises of multiple-market and detailed API-manufacturing assessment to match the agreed scope. Resolve indication wording and distinguish §1.4's inherited CQA priorities from Chapter 2's failure scenarios. Review QTPP-to-CQA mapping and retain all seven potential CQAs.
 3. **Resolve technical and source gaps.** Complete the checklist above and review the full applicable pharmacopoeial text. Locate the original three case-stage instructions and complete presentation materials before claiming full assignment coverage; the four-page company PDF is not the complete set.
 4. **Check the complete submission.** Revisit repetition, source coverage and length after the remaining sections are drafted. The assignment specifies at least seven narrative pages and a ten-page maximum, but its references clause also mentions a five-page minimum. Clarify that discrepancy and whether references count toward the maximum; check the formatted artifact rather than infer page compliance from word count.
 
-The next substantive report task is Chapter 3. Under the working protocol, substantive revision after this settled baseline will reopen the affected Final document as Draft, Version 2.
+The next step is to discuss the conclusion with Shine. Both documents are Final, Version 2. When substantive work resumes, reopen the affected document as Draft, Version 3 under the working protocol; preserve this completed version in its revision history.
 
 ## Source map for continued work
 
@@ -206,3 +288,4 @@ The next substantive report task is Chapter 3. Under the working protocol, subst
 |:--------|:-----|:--------|
 | 0 | 2026-11-09 | Separated drafting notes, source context and next steps from the report-draft memo, updated review/completion wording, and marked the baseline Final at Shine’s request. |
 | 1 | 2026-11-10 | Consolidated Chapter 2 decisions, review outcomes, nine-question defence, technical and source limitations, and remaining work; removed duplicate progress notes and marked this version Final at Shine’s request. |
+| 2 | 2026-11-11 | Consolidated Chapter 3 decisions, source limits, editorial review and five-question oral-defence guidance; recorded the accepted clarifications and remaining report work, and marked Version 2 Final at Shine’s request. |
