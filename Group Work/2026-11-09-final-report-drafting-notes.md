@@ -1,25 +1,66 @@
 # 2026-11-09 — Final Report Drafting Notes
 
 > **Created:** 2026-11-09  
-> **Last updated:** 2026-11-11  
-> **Version:** 2  
-> **Status:** Final  
+> **Last updated:** 2026-11-12  
+> **Version:** 4  
+> **Status:** Draft  
 > **Course:** Introduction to Medical Product Regulatory Science with Quality by Design  
 > **Purpose:** Preserve agreed decisions, oral-defence preparation, source limitations and remaining work separately from the report prose.  
-> **Related report:** [[2026-11-09-final-report-draft-memo]], Final, Version 2.  
+> **Related report:** [[2026-11-09-final-report-draft-memo]], Draft, Version 4.  
 > **Tags:** #DRAP-5001 #group-work #final-report #drafting-notes
 
 ## Settled version and scope
 
-Shine confirmed both documents as Final, Version 2 on 2026-11-11 after Chapter 3 drafting, editorial review and improvements informed by five oral-defence questions. Version 1 settled Chapter 2 on 2026-11-10. This completed revision covers the current report content and consolidated notes; the conclusion and full-report checks listed below remain future work.
+Shine confirmed both documents as Final, Version 2 on 2026-11-11 after Chapter 3 drafting, editorial review and improvements informed by five oral-defence questions. Version 1 settled Chapter 2 on 2026-11-10. On 2026-11-12, Shine approved the conclusion and confirmed both documents as Final, Version 3, completing the first whole draft. The settled chapters remain unchanged. Work now moves to full-report review; the checks below remain outstanding.
 
-The report contains the introduction, Chapter 1 (§§1.1–1.4), Chapter 2 (§§2.1–2.5) and the settled Chapter 3 (§§3.1–3.5). The introduction and Chapter 1 were settled at version 0 on 2026-11-09. Chapter 2 retains two risk tables, numbered 3 and 4; study and control details are now prose. Section 3.1 introduces Table 5, assigning functional responsibilities; Section 3.2 adds Table 6, setting out the proposed quality-manual structure and supporting documents. Section 3.4 adds Table 7 with twenty audit questions and named supporting materials.
+The report contains the introduction, Chapter 1 (§§1.1–1.4), Chapter 2 (§§2.1–2.5), the settled Chapter 3 (§§3.1–3.5), and the conclusion, followed by references. The introduction and Chapter 1 were settled at version 0 on 2026-11-09. Chapter 2 retains two risk tables, numbered 3 and 4; study and control details are now prose. Section 3.1 introduces Table 5, assigning functional responsibilities; Section 3.2 adds Table 6, setting out the proposed quality-manual structure and supporting documents. Section 3.4 adds Table 7 with twenty audit questions and named supporting materials.
 
 - **Product and route:** Develop the 20 mg immediate-release, film-coated atorvastatin tablet using wet granulation. Carry wet processing and its downstream effects through studies, controls and QMS examples. The report's §2.1 and Question 2 below hold the ingredient-addition sequence.
 - **Regulatory scope:** The worked assessment is FDA-focused. Other markets in the fictional company profile are background ambitions. ICH guidance and applicable USP requirements support the US-facing assessment.
-- **API scope:** Treat atorvastatin calcium trihydrate as an input material. Include relevant identity, purity, potency, particle properties, solid form and moisture; do not develop API synthesis. The company profile's API-manufacturing capability does not establish outsourcing arrangements or expand this worked scope.
+- **API scope:** Shine clarified that the company manufactures atorvastatin calcium API for its own tablets and does not sell the API separately. The report focuses on finished-tablet manufacture and treats the API as an input material, including relevant identity, purity, potency, particle properties, solid form and moisture. API manufacturing processes and their standards are outside the worked scope.
 - **Risk method:** Use project-defined qualitative investigation priorities with explicit scenarios, consequences, likelihood assumptions and uncertainty. Keep assumed baseline checks separate from future controls. Do not import numerical S/O/D scores or RPN cutoffs.
 - **Technical detail:** Formulation quantities, grades, addition split, equipment, operating settings, sampling and criteria require teammate review and supporting evidence. These are not values Shine is expected to invent.
+
+## Full-report review — Version 4 in progress
+
+Shine requested paragraph-by-paragraph review from the introduction, with each table treated as one paragraph. Present the current text in conversation and wait for her comments before advancing. The introduction, Sections 1.1–1.2 and Section 1.3’s opening paragraph are reviewed and complete for this pass. Resume at Section 1.3 — Table 2; its ordering is agreed, while review of the table content remains open. Shine can see the table and does not need it pasted into chat again. At Shine’s request, replaced “Its functions include…” with “The company’s departments include…” and retained the Quality Unit alongside those departments. Both documents are now Draft, Version 4; completed Version 3 history and Last updated dates are preserved.
+
+Shine clarified that, within the fictional company scenario, atorvastatin tablets are already marketed and are one of LipidArc’s main products. The company-description sentence now reads: “Atorvastatin calcium tablets, 20 mg, are among the company’s main marketed products.” This supersedes the earlier assumption that the product itself is only a development proposal. During paragraph-by-paragraph review, reconcile the product description, development-stage wording and conclusion with this premise. Distinguish the marketed-product scenario from the report’s proposed studies and QMS arrangements; do not infer particular market approvals, completed study results or validation evidence that has not been supplied.
+
+### Report-wide wording preference
+
+Shine requested that the report avoid repeating “LipidArc” where possible and use “our company” instead. Retain the full company name at its first introduction and where needed for clarity. Use “Our company” at the start of a sentence and “our company” within a sentence; use the possessive “our company’s” where appropriate. Apply this preference throughout the paragraph-by-paragraph review and check consistency across the whole report at the end. This wording preference does not reopen completed paragraphs for discussion.
+
+The report should read as a standalone assessment. The case-study presentations are source material, not part of the report’s narrative: replace references to “the case studies”, “earlier case work” or presentation history with direct descriptions of the current assessment as those passages are reviewed. Keep source provenance in these notes. In Section 1.3’s opening paragraph, replaced the case-study reference with “This assessment covers seven potential CQAs for our company’s atorvastatin tablets.”
+
+### Paragraph-by-paragraph review progress
+
+Update this checklist and the resume point after each paragraph or table is settled with Shine. Save agreed changes in the report. Resume from the first unfinished item without presenting completed material for review again, unless Shine asks to revisit it or a later substantive inconsistency requires a targeted correction. A completed paragraph does not close the whole Version 4 review batch; retain Draft status until Shine confirms that batch is complete.
+
+- [x] **Introduction — Company description:** Review completed and confirmed by Shine on 2026-11-12. Adopted “departments” and described atorvastatin calcium tablets, 20 mg, as one of the company’s main marketed products.
+- [x] **Introduction — Product description, paragraph 1:** Review completed and confirmed by Shine on 2026-11-12. Adopted “Our company’s generic prescription atorvastatin calcium tablets contain atorvastatin calcium trihydrate equivalent to 20 mg of atorvastatin per tablet.” The remaining sentences are unchanged.
+- [x] **Introduction — Product description, paragraph 2:** Review completed and confirmed by Shine on 2026-11-12. Replaced the case-study history and development-target list with the agreed account of the report’s purpose and three-chapter progression. Bioequivalence and shelf-life details were removed from this introductory paragraph.
+- [x] **Section 1.1 — Applicable requirements and quality standards, paragraph 1:** Review completed and confirmed by Shine on 2026-11-12. Applied “Our company’s” and changed “must also be addressed” to “should also be addressed” for other regional requirements.
+- [x] **Section 1.1 — Applicable requirements and quality standards, paragraph 2:** Review completed and confirmed by Shine on 2026-11-12. Clarified internal API manufacture without separate API sales, restricted the report to tablet manufacture and API input quality, and distinguished the two USP–NF monographs. The approved paragraph begins “Our company manufactures”.
+- [x] **Section 1.1 — Applicable requirements and quality standards, paragraph 3:** Review completed and confirmed by Shine on 2026-11-12. Replaced conditional GCP/GLP discussion with the agreed marketed-product pharmacovigilance paragraph, beginning “Alongside manufacturing quality”. Updated reference 8 to the FDA postmarketing reporting source. Other GxP applicability remains an explicit follow-up item below.
+- [x] **Section 1.1 — Applicable requirements and quality standards, paragraph 4:** Shine accepted the current wording on 2026-11-12, including the applied “our company” preference, and requested moving on. Retain the paragraph as accepted for this pass; the ICH Q11 scope-alignment question remains recorded for the final consistency check.
+- [x] **Section 1.2 — Quality Target Product Profile (QTPP), opening paragraph:** Review completed and confirmed by Shine on 2026-11-12. Applied “our company’s”, clarified dosage form and strength, and simplified the table introduction to “Table 1 summarises the product’s quality targets and their rationale.” Table 1 remains in Section 1.2. Added the agreed connecting sentence at the start of Section 1.3; the rest of Section 1.3 still awaits review.
+- [x] **Section 1.2 — Table 1 (QTPP):** Review completed and confirmed by Shine on 2026-11-12. Retained the table order and extended the introductory sentence with “ordered from product characteristics to intended performance and maintenance of quality.” Removed “without ranking their importance” at her request.
+- [x] **Section 1.2 — first paragraph after Table 1:** Review completed and confirmed by Shine on 2026-11-12. Replaced the explanatory discussion with three direct sentences distinguishing atorvastatin strength from tablet mass and linking labelled-strength accuracy and unit consistency to assay and dosage-unit uniformity testing. The approved paragraph begins “The 20 mg”.
+- [x] **Section 1.2 — second paragraph after Table 1:** Review completed and confirmed by Shine on 2026-11-12. Adopted two sentences linking release and stability objectives to assessment of formulation, manufacturing and packaging. Removed the pack-count warning and unsupported assumptions about absent evidence or future studies.
+- [x] **Section 1.3 — opening paragraph:** Review completed and confirmed by Shine on 2026-11-12. Removed the case-study reference and unspecified “prior knowledge”, applied “our company”, and replaced the table-order explanation with the agreed reference to ICH Q6A §§3.2.2 and 3.3.2.1.
+- [ ] **Section 1.3 — Table 2:** Ordering agreed and implemented on 2026-11-12: identity, assay, related substances/degradation products, dissolution, dosage-unit uniformity, water content, microbial limits. This follows the corresponding selected tests in ICH Q6A §§3.2.2 and 3.3.2.1; it is an organisational basis, not an importance ranking or a mandatory testing sequence. Q6A’s description entry is outside the selected seven attributes. Row content was preserved. The table’s content review remains open; do not paste the table again unless requested.
+- [ ] **Subsequent paragraphs and tables:** Not yet reviewed in this pass. Add specific completed entries and advance the resume point as review proceeds.
+
+**Resume point:** Section 1.3 — Table 2. Its ordering is agreed; continue discussion of its content without pasting it again. Section 1.1 remains recorded as reviewed; the API-manufacturing/ICH Q7 emphasis in paragraph 1 and ICH Q11 wording in paragraph 4 remain targeted scope-alignment items for the whole-report consistency check, together with broader market-scope alignment. Do not repeat the completed paragraph reviews.
+
+### Follow-up — other GxP applicability
+
+- [ ] As later sections and the original assignment requirements are reviewed, check whether the actual activities discussed bring other GxP requirements, including GCP or GLP, within scope. Shine explicitly agreed to return to Section 1.1, paragraph 3, and update it if later material establishes their relevance. Removing the conditional discussion does not establish that these requirements are inapplicable to every company activity. Keep the paragraph marked as reviewed unless a specific reason to revise it emerges. References 6 and 7 are retained pending this check; resolve unused references and numbering during the final reference review.
+
+## Conclusion — settled Version 3
+
+On 2026-11-12, Shine agreed to connect the theoretical framework to practical manufacturing. The three-paragraph conclusion draws together quality objectives and development evidence, implementation and feedback through the QMS, and the evidence still needed to demonstrate performance. It uses the existing drying example to connect studies, approved instructions, batch records, investigation and disposition. It synthesises the report without introducing new technical claims or sources, and retains the distinction between proposed arrangements and demonstrated outcomes. Shine approved the wording and confirmed completion of the first whole draft as Final, Version 3 on 2026-11-12.
 
 ## Chapter 3 — settled decisions and review
 
@@ -261,12 +302,12 @@ The nine-question guide retains the detailed defence, while this consolidated no
 
 ## Remaining work and next step
 
-1. **Develop the conclusion.** Discuss how to draw together the quality objectives, proposed development/control strategy and QMS, while acknowledging remaining development needs. Chapter 3 drafting, editorial review and the accepted oral-defence clarifications are complete for Version 2.
+1. **Review the complete narrative.** The first whole draft, including the conclusion, is complete as Final, Version 3. Review coherence across the introduction, three chapters and conclusion, checking that the links between quality objectives, development evidence and practical manufacturing remain clear and consistent.
 2. **Align earlier report scope and priorities.** Revise the introduction/§1.1 promises of multiple-market and detailed API-manufacturing assessment to match the agreed scope. Resolve indication wording and distinguish §1.4's inherited CQA priorities from Chapter 2's failure scenarios. Review QTPP-to-CQA mapping and retain all seven potential CQAs.
 3. **Resolve technical and source gaps.** Complete the checklist above and review the full applicable pharmacopoeial text. Locate the original three case-stage instructions and complete presentation materials before claiming full assignment coverage; the four-page company PDF is not the complete set.
-4. **Check the complete submission.** Revisit repetition, source coverage and length after the remaining sections are drafted. The assignment specifies at least seven narrative pages and a ten-page maximum, but its references clause also mentions a five-page minimum. Clarify that discrepancy and whether references count toward the maximum; check the formatted artifact rather than infer page compliance from word count.
+4. **Check the complete submission.** Review repetition, source coverage and length across the completed draft. The assignment specifies at least seven narrative pages and a ten-page maximum, but its references clause also mentions a five-page minimum. Clarify that discrepancy and whether references count toward the maximum; check the formatted artifact rather than infer page compliance from word count.
 
-The next step is to discuss the conclusion with Shine. Both documents are Final, Version 2. When substantive work resumes, reopen the affected document as Draft, Version 3 under the working protocol; preserve this completed version in its revision history.
+Full-report review is now proceeding paragraph by paragraph with Shine. Both documents are Draft, Version 4. Retain the completed Version 3 history and Last updated dates during interim edits; record the completed review batch when Shine confirms it is settled.
 
 ## Source map for continued work
 
@@ -289,3 +330,4 @@ The next step is to discuss the conclusion with Shine. Both documents are Final,
 | 0 | 2026-11-09 | Separated drafting notes, source context and next steps from the report-draft memo, updated review/completion wording, and marked the baseline Final at Shine’s request. |
 | 1 | 2026-11-10 | Consolidated Chapter 2 decisions, review outcomes, nine-question defence, technical and source limitations, and remaining work; removed duplicate progress notes and marked this version Final at Shine’s request. |
 | 2 | 2026-11-11 | Consolidated Chapter 3 decisions, source limits, editorial review and five-question oral-defence guidance; recorded the accepted clarifications and remaining report work, and marked Version 2 Final at Shine’s request. |
+| 3 | 2026-11-12 | Recorded the approved conclusion and completion of the first whole draft, consolidated the outstanding full-report review tasks, and marked Version 3 Final at Shine’s request. |
