@@ -1,152 +1,76 @@
 # 2026-11-09 — Final Report Drafting Notes
 
 > **Created:** 2026-11-09  
-> **Last updated:** 2026-11-12  
+> **Last updated:** 2026-11-14  
 > **Version:** 4  
-> **Status:** Draft  
+> **Status:** Final  
 > **Course:** Introduction to Medical Product Regulatory Science with Quality by Design  
-> **Purpose:** Preserve agreed decisions, oral-defence preparation, source limitations and remaining work separately from the report prose.  
-> **Related report:** [[2026-11-09-final-report-draft-memo]], Draft, Version 4.  
+> **Purpose:** Preserve agreed decisions, oral-defence preparation, source limits and submission follow-ups separately from the report.  
+> **Related report:** [[2026-11-09-final-report-draft-memo]], Final, Version 4.  
 > **Tags:** #DRAP-5001 #group-work #final-report #drafting-notes
 
-## Settled version and scope
+## Agreed scope and approach
 
-Shine confirmed both documents as Final, Version 2 on 2026-11-11 after Chapter 3 drafting, editorial review and improvements informed by five oral-defence questions. Version 1 settled Chapter 2 on 2026-11-10. On 2026-11-12, Shine approved the conclusion and confirmed both documents as Final, Version 3, completing the first whole draft. The settled chapters remain unchanged. Work now moves to full-report review; the checks below remain outstanding.
+Shine confirmed the reviewed report and these condensed notes as Final, Version 4 on 2026-11-14. The paragraph-by-paragraph review, Chapter 3 structural review and whole-report consistency check are complete. Reference numbers in these notes match the report’s current 34-entry bibliography.
 
-The report contains the introduction, Chapter 1 (§§1.1–1.4), Chapter 2 (§§2.1–2.5), the settled Chapter 3 (§§3.1–3.5), and the conclusion, followed by references. The introduction and Chapter 1 were settled at version 0 on 2026-11-09. Chapter 2 retains two risk tables, numbered 3 and 4; study and control details are now prose. Section 3.1 introduces Table 5, assigning functional responsibilities; Section 3.2 adds Table 6, setting out the proposed quality-manual structure and supporting documents. Section 3.4 adds Table 7 with twenty audit questions and named supporting materials.
+- **Product:** In the fictional company scenario, the marketed product is a 20 mg immediate-release, film-coated atorvastatin tablet containing atorvastatin calcium trihydrate equivalent to 20 mg atorvastatin, in a 30-tablet presentation. The formulation, studies and QMS arrangements are the report’s proposed assessment; product-specific results and approvals require their own evidence.
+- **Route:** Wet granulation remains selected. Section 2.1 and Chapter 2 oral-defence Question 2 explain the ingredient-addition sequence, including split croscarmellose addition and late lubrication. Dry-granulation background remains in these notes.
+- **Scope:** The worked assessment is US FDA-focused and concerns finished-tablet manufacture, treating internally manufactured API as an input material. The company does not sell API separately. ICH Q7 supplies API-manufacturing background; the report does not assess that process. EU, UK and China remain company market ambitions.
+- **Quality and risk:** Retain all seven potential CQAs. Chapter 2 uses project-defined qualitative investigation priorities, explicit scenarios, consequences, likelihood assumptions and uncertainty. Assumed baseline checks and proposed controls remain distinct; numerical S/O/D scores and RPN cutoffs are not used.
+- **Evidence:** Quantitative formulation, grades, addition split, equipment, settings, sampling and criteria require team review and supporting evidence. The proposed compression design space and 24-month shelf-life target require study results.
+- **Writing:** Use “our company” throughout the report and explain positively what findings establish or support. Present the assessment as standalone prose; keep presentation history and source provenance here. Historical source records may retain “LipidArc”.
 
-- **Product and route:** Develop the 20 mg immediate-release, film-coated atorvastatin tablet using wet granulation. Carry wet processing and its downstream effects through studies, controls and QMS examples. The report's §2.1 and Question 2 below hold the ingredient-addition sequence.
-- **Regulatory scope:** The worked assessment is FDA-focused. Other markets in the fictional company profile are background ambitions. ICH guidance and applicable USP requirements support the US-facing assessment.
-- **API scope:** Shine clarified that the company manufactures atorvastatin calcium API for its own tablets and does not sell the API separately. The report focuses on finished-tablet manufacture and treats the API as an input material, including relevant identity, purity, potency, particle properties, solid form and moisture. API manufacturing processes and their standards are outside the worked scope.
-- **Risk method:** Use project-defined qualitative investigation priorities with explicit scenarios, consequences, likelihood assumptions and uncertainty. Keep assumed baseline checks separate from future controls. Do not import numerical S/O/D scores or RPN cutoffs.
-- **Technical detail:** Formulation quantities, grades, addition split, equipment, operating settings, sampling and criteria require teammate review and supporting evidence. These are not values Shine is expected to invent.
+## Final structure and review outcome
 
-## Full-report review — Version 4 in progress
+The report contains the introduction, Chapter 1 (§§1.1–1.3), Chapter 2 (§§2.1–2.5), Chapter 3 (§§3.1–3.5), the conclusion and numbered references. The sequence connects quality targets to risk assessment, studies and controls, then responsibilities, documentation, quality processes, audit and management review.
 
-Shine requested paragraph-by-paragraph review from the introduction, with each table treated as one paragraph. Present the current text in conversation and wait for her comments before advancing. The introduction, Sections 1.1–1.2 and Section 1.3’s opening paragraph are reviewed and complete for this pass. Resume at Section 1.3 — Table 2; its ordering is agreed, while review of the table content remains open. Shine can see the table and does not need it pasted into chat again. At Shine’s request, replaced “Its functions include…” with “The company’s departments include…” and retained the Quality Unit alongside those departments. Both documents are now Draft, Version 4; completed Version 3 history and Last updated dates are preserved.
+Tables 1–2 cover the QTPP and seven potential CQAs; Tables 3–4 cover material and process risks; Tables 5–6 describe responsibilities and the quality manual; Table 7 contains twenty selected audit checks. Study and control details remain prose. The quality manual is an outline with supporting-document examples. Section 1.4 and its inherited CQA priority labels were removed; risk prioritisation belongs in Chapter 2.
 
-Shine clarified that, within the fictional company scenario, atorvastatin tablets are already marketed and are one of LipidArc’s main products. The company-description sentence now reads: “Atorvastatin calcium tablets, 20 mg, are among the company’s main marketed products.” This supersedes the earlier assumption that the product itself is only a development proposal. During paragraph-by-paragraph review, reconcile the product description, development-stage wording and conclusion with this premise. Distinguish the marketed-product scenario from the report’s proposed studies and QMS arrangements; do not infer particular market approvals, completed study results or validation evidence that has not been supplied.
+The final review aligned the marketed-product premise and US/tablet scope, clarified terminology and familial-hypercholesterolaemia subtypes, retained conditional GCP applicability for clinical bioequivalence studies and removed the uncited GLP source. It also added the complaint-files source, refined Chapter 3’s navigation and reordered the conclusion around the framework, quality studies and practical QMS implementation. All 34 bibliography entries are cited; numerical citations and references to Tables 1–7 and the thirteen numbered subsections were checked.
 
-### Report-wide wording preference
+The source checks were targeted. Full pharmacopoeial verification, product-specific evidence, original case-stage coverage and formatted submission checks remain the follow-ups listed below.
 
-Shine requested that the report avoid repeating “LipidArc” where possible and use “our company” instead. Retain the full company name at its first introduction and where needed for clarity. Use “Our company” at the start of a sentence and “our company” within a sentence; use the possessive “our company’s” where appropriate. Apply this preference throughout the paragraph-by-paragraph review and check consistency across the whole report at the end. This wording preference does not reopen completed paragraphs for discussion.
+### QMS interpretation
 
-The report should read as a standalone assessment. The case-study presentations are source material, not part of the report’s narrative: replace references to “the case studies”, “earlier case work” or presentation history with direct descriptions of the current assessment as those passages are reviewed. Keep source provenance in these notes. In Section 1.3’s opening paragraph, replaced the case-study reference with “This assessment covers seven potential CQAs for our company’s atorvastatin tablets.”
+The quality unit includes QA and QC and makes authorised material and batch-disposition decisions using records, testing and investigations. Section 3.3 describes operational investigation and CAPA; Section 3.5 uses their findings to decide priorities and resources.
 
-### Paragraph-by-paragraph review progress
+The proposed electronic document system preserves linked versions, historical records and protected audit trails, with validation for intended use. Shine’s internship experience informed this design; no vendor, WORM storage or permanent-retention requirement is assumed. Revised instructions require approval, coordinated effective dates and relevant training or competency assessment before independent use. Incorrect approved instructions also require assessment of affected batches.
 
-Update this checklist and the resume point after each paragraph or table is settled with Shine. Save agreed changes in the report. Resume from the first unfinished item without presenting completed material for review again, unless Shine asks to revisit it or a later substantive inconsistency requires a targeted correction. A completed paragraph does not close the whole Version 4 review batch; retain Draft status until Shine confirms that batch is complete.
+Table 7 is a selected subset of a wider audit programme. Completed records, underlying data, observations and interviews support findings; records for hypothetical incidents are relevant when those events occurred. PIC/S Critical, Major and Other are the chosen internal grading categories, while US GMP remains the benchmark. Audit findings, CAPA results and management decisions are proposed arrangements, not invented completed activities.
 
-- [x] **Introduction — Company description:** Review completed and confirmed by Shine on 2026-11-12. Adopted “departments” and described atorvastatin calcium tablets, 20 mg, as one of the company’s main marketed products.
-- [x] **Introduction — Product description, paragraph 1:** Review completed and confirmed by Shine on 2026-11-12. Adopted “Our company’s generic prescription atorvastatin calcium tablets contain atorvastatin calcium trihydrate equivalent to 20 mg of atorvastatin per tablet.” The remaining sentences are unchanged.
-- [x] **Introduction — Product description, paragraph 2:** Review completed and confirmed by Shine on 2026-11-12. Replaced the case-study history and development-target list with the agreed account of the report’s purpose and three-chapter progression. Bioequivalence and shelf-life details were removed from this introductory paragraph.
-- [x] **Section 1.1 — Applicable requirements and quality standards, paragraph 1:** Review completed and confirmed by Shine on 2026-11-12. Applied “Our company’s” and changed “must also be addressed” to “should also be addressed” for other regional requirements.
-- [x] **Section 1.1 — Applicable requirements and quality standards, paragraph 2:** Review completed and confirmed by Shine on 2026-11-12. Clarified internal API manufacture without separate API sales, restricted the report to tablet manufacture and API input quality, and distinguished the two USP–NF monographs. The approved paragraph begins “Our company manufactures”.
-- [x] **Section 1.1 — Applicable requirements and quality standards, paragraph 3:** Review completed and confirmed by Shine on 2026-11-12. Replaced conditional GCP/GLP discussion with the agreed marketed-product pharmacovigilance paragraph, beginning “Alongside manufacturing quality”. Updated reference 8 to the FDA postmarketing reporting source. Other GxP applicability remains an explicit follow-up item below.
-- [x] **Section 1.1 — Applicable requirements and quality standards, paragraph 4:** Shine accepted the current wording on 2026-11-12, including the applied “our company” preference, and requested moving on. Retain the paragraph as accepted for this pass; the ICH Q11 scope-alignment question remains recorded for the final consistency check.
-- [x] **Section 1.2 — Quality Target Product Profile (QTPP), opening paragraph:** Review completed and confirmed by Shine on 2026-11-12. Applied “our company’s”, clarified dosage form and strength, and simplified the table introduction to “Table 1 summarises the product’s quality targets and their rationale.” Table 1 remains in Section 1.2. Added the agreed connecting sentence at the start of Section 1.3; the rest of Section 1.3 still awaits review.
-- [x] **Section 1.2 — Table 1 (QTPP):** Review completed and confirmed by Shine on 2026-11-12. Retained the table order and extended the introductory sentence with “ordered from product characteristics to intended performance and maintenance of quality.” Removed “without ranking their importance” at her request.
-- [x] **Section 1.2 — first paragraph after Table 1:** Review completed and confirmed by Shine on 2026-11-12. Replaced the explanatory discussion with three direct sentences distinguishing atorvastatin strength from tablet mass and linking labelled-strength accuracy and unit consistency to assay and dosage-unit uniformity testing. The approved paragraph begins “The 20 mg”.
-- [x] **Section 1.2 — second paragraph after Table 1:** Review completed and confirmed by Shine on 2026-11-12. Adopted two sentences linking release and stability objectives to assessment of formulation, manufacturing and packaging. Removed the pack-count warning and unsupported assumptions about absent evidence or future studies.
-- [x] **Section 1.3 — opening paragraph:** Review completed and confirmed by Shine on 2026-11-12. Removed the case-study reference and unspecified “prior knowledge”, applied “our company”, and replaced the table-order explanation with the agreed reference to ICH Q6A §§3.2.2 and 3.3.2.1.
-- [ ] **Section 1.3 — Table 2:** Ordering agreed and implemented on 2026-11-12: identity, assay, related substances/degradation products, dissolution, dosage-unit uniformity, water content, microbial limits. This follows the corresponding selected tests in ICH Q6A §§3.2.2 and 3.3.2.1; it is an organisational basis, not an importance ranking or a mandatory testing sequence. Q6A’s description entry is outside the selected seven attributes. Row content was preserved. The table’s content review remains open; do not paste the table again unless requested.
-- [ ] **Subsequent paragraphs and tables:** Not yet reviewed in this pass. Add specific completed entries and advance the resume point as review proceeds.
+## Retained fact-check basis
 
-**Resume point:** Section 1.3 — Table 2. Its ordering is agreed; continue discussion of its content without pasting it again. Section 1.1 remains recorded as reviewed; the API-manufacturing/ICH Q7 emphasis in paragraph 1 and ICH Q11 wording in paragraph 4 remain targeted scope-alignment items for the whole-report consistency check, together with broader market-scope alignment. Do not repeat the completed paragraph reviews.
+### Table 4 — process risks
 
-### Follow-up — other GxP applicability
+The revised table passed the 2026-11-14 check as a preliminary scenario-based investigation assessment. High denotes a project investigation priority under stated assumptions, including the conditional coating and packaging scenarios. The supporting mechanisms and study questions are retained below.
 
-- [ ] As later sections and the original assignment requirements are reviewed, check whether the actual activities discussed bring other GxP requirements, including GCP or GLP, within scope. Shine explicitly agreed to return to Section 1.1, paragraph 3, and update it if later material establishes their relevance. Removing the conditional discussion does not establish that these requirements are inapplicable to every company activity. Keep the paragraph marked as reviewed unless a specific reason to revise it emerges. References 6 and 7 are retained pending this check; resolve unused references and numbering during the final reference review.
+| Stage | Verified account and source location |
+|:------|:-------------------------------------|
+| Initial blending | Mixing conditions influence blend uniformity. FDA's illustrative example, §2.3.2, Table 34, supports this investigation; its numerical settings and outcomes belong to its different product. |
+| Binder preparation and granulation | Binder-liquid distribution and operating conditions affect granule growth. Smirani-Khayati et al., publisher abstract (report reference 33), supports this mechanism; the proposed formulation's downstream feeding/dissolution effects are hypotheses for study. |
+| Wet holding and drying | The atorvastatin study's “Tablet manufacturing process evaluation” and Conclusions support processing-related solid-form changes. Microbial proliferation depends on suitable water activity, temperature, time and bioburden; FDA's September 2021 draft, §IV.A, printed p. 7, discusses wet in-process holding during solid-dose manufacture. |
+| Milling, final blending and lubrication | FDA example §§2.3.3–2.3.4 supports investigating granule properties and lubrication. The revised row connects these to uniformity and tablet performance. |
+| Compression | FDA example §2.3.5, Table 45, distinguishes feeding/die-filling effects from compaction effects on integrity and dissolution. The revised row makes this distinction explicit. |
+| Coating | The atorvastatin study's coating discussion supports examining liquid exposure and drying. The project infers possible quality consequences under excessive exposure or film variation; High is expressly conditional on that scenario. |
+| Packaging | ICH Q8(R2), Part I §2.4, supports moisture protection and container-closure integrity studies. High is conditional on moisture-sensitive performance and meaningful exposure/closure variability. |
 
-## Conclusion — settled Version 3
+**Priority interpretation:** ICH Q9(R1) §4.3 supports explicit scenarios, likelihood, consequences and uncertainty. The sources establish relevant mechanisms and investigation questions; our High labels remain provisional study priorities. Formulation, equipment, operating ranges, packaging and control-effectiveness evidence will determine product-specific reassessment. The coating and packaging rows identify their additional assumptions directly. The table's baseline note records assumed material controls, calibration, hygiene and routine weight/appearance checks.
 
-On 2026-11-12, Shine agreed to connect the theoretical framework to practical manufacturing. The three-paragraph conclusion draws together quality objectives and development evidence, implementation and feedback through the QMS, and the evidence still needed to demonstrate performance. It uses the existing drying example to connect studies, approved instructions, batch records, investigation and disposition. It synthesises the report without introducing new technical claims or sources, and retains the distinction between proposed arrangements and demonstrated outcomes. Shine approved the wording and confirmed completion of the first whole draft as Final, Version 3 on 2026-11-12.
+**Source links:** [ICH Q8(R2), Part I §§2.3–2.4](https://database.ich.org/sites/default/files/Q8_R2_Guideline.pdf); [ICH Q9(R1), §4.3](https://database.ich.org/sites/default/files/ICH_Q9%28R1%29_Guideline_Step4_2025_0115_0.pdf); [FDA illustrative immediate-release example, §§2.3.2–2.3.5](https://www.pharmaexcipients.com/wp-content/uploads/2023/03/Quality-by-Design-for-ANDAs.pdf); [atorvastatin processing study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317407); [binder-liquid distribution study, abstract](https://doi.org/10.1016/j.powtec.2009.05.020); [FDA microbiological-quality draft, §§IV.A–IV.B](https://www.fda.gov/media/152527/download).
 
-## Chapter 3 — settled decisions and review
+**Evidence limits retained:** The atorvastatin study reports acceptable tested tablet quality alongside structural changes and contains the previously recorded manufacturing-description inconsistency. It supplies evidence of transformation, while effects in our 20 mg tablet require investigation. The FDA example uses a different drug and dry granulation. The binder study uses lactose/PVP. FDA's microbiological document is explicitly draft guidance, used for scientific rationale. No commercial batch history, completed validation or measured likelihood has been supplied for this fictional product.
 
-Shine settled Chapter 3 as part of Final, Version 2 on 2026-11-11 after subsection drafting, a grammar/clarity/repetition review and discussion of five oral-defence questions. The quality-manual structure replaces the presentation-style excerpt: the report gives headings, coverage and supporting-document examples, without writing a full manual. The original third-case instructions still require checking for assignment coverage.
+### Table 5 — functional responsibilities
 
-| Section | Settled content |
-|:--------|:----------------|
-| 3.1 QMS scope, organisation and responsibilities | FDA-focused scope; management accountability; Table 5's functional responsibilities; quality-unit authority and its distinction from QC laboratory testing; tablet-weight excursion example. |
-| 3.2 Quality documentation and document control | Table 6's seven-part manual structure; document types and process connections; version preservation, approval, effective dates, training, record integrity and retention; response to an incorrect approved instruction. |
-| 3.3 Implementation of lifecycle quality processes | Supplier/material management, monitoring, deviation/OOS investigation, CAPA effectiveness and change management; conditional examples involving magnesium stearate, drying, dissolution and a feeder fault. |
-| 3.4 Internal audit and follow-up | Risk-based scope and method; Table 7's twenty selected checks with named supporting materials; evidence assessment, deficiency grading and follow-up. |
-| 3.5 Management review and continual improvement | Stage-appropriate inputs, management decisions and resources, recorded actions and effectiveness review; recurring drying-deviation example and feedback to risk assessments and controls. |
+The proposed allocation passed the 2026-11-14 check against [ICH Q10](https://database.ich.org/sites/default/files/Q10_Guideline.pdf), §§2.7, 3.1.1–3.1.2 and 3.2.3, and [21 CFR Part 211](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-C/part-211), particularly §§211.22, 211.67, 211.80–211.84, 211.100, 211.110, 211.188, 211.192 and 211.194. [FDA’s quality-systems guidance, §III.F](https://www.fda.gov/media/71023/download), supports a quality unit encompassing QA and QC. The table is the project’s organisational proposal.
 
-### Documentation and electronic controls
+### Table 6 — quality-manual structure
 
-The manual describes the system and links to supporting documents. SOPs define recurring workflows; specifications define tests and acceptance criteria; manufacturing instructions contain the formula, sequence and operating conditions; protocols define studies and criteria; completed records and reports preserve execution, evidence and decisions. Technical change management evaluates and authorises product/process changes, while document control governs the resulting instructions and records.
-
-Shine's internship experience informed the proposed electronic document-management system. Revisions are submitted as linked new versions, with routine-user overwrite/deletion restrictions, preserved historical versions, controlled access and protected, reviewed audit trails. The system is to be validated for its intended use. Records, metadata and audit trails remain available throughout required retention, with authorised disposal afterwards. No vendor, WORM storage or permanent-retention requirement is assumed. Section 3.4 verifies these arrangements through checklist items 12 and 15 and the revised drying-instruction example.
-
-Section 3.2 also addresses an incorrect approved instruction: the quality unit assesses suspension or authorised interim controls and the impact on affected batches. Required training and any practical competency assessment precede independent performance under a revised instruction, with records identifying its version.
-
-### Audit evidence and review decisions
-
-Every checklist item names supporting materials. The twenty items are explicitly a selected subset, not a complete audit programme. Completed records and underlying data support evidence of execution; blank forms alone do not. Auditors also observe activities and interview staff. Records for hypothetical incidents or changes are requested only if those events occurred; required missing evidence is investigated rather than automatically marked not applicable. PIC/S Critical, Major and Other are adopted as the project's internal grading method, while US GMP remains the benchmark. No completed audit, grades or compliance outcomes are invented.
-
-The editorial review standardised quality-unit terminology, clarified document timing and audit sampling, separated drying-deviation and dissolution-OOS examples, and aligned subsection headings. Repeated explanations were removed: §3.3 explains CAPA effectiveness, while §3.5 uses operational review summaries to support management decisions and resources. The proposed processes do not establish completed validation, successful CAPA, numerical operating limits or an approved design space. Review frequency and performance targets require justification rather than invented values.
-
-The oral-defence discussion led to three accepted additions: the general statement that repeated testing cannot itself improve batch quality or replace investigation; the response to an incorrect approved instruction; and training/competency requirements before independent task performance. The manual/document hierarchy and CAPA/management-review distinctions were already adequately covered.
-
-### Chapter 3 source basis
-
-Report reference 10 covers ICH Q10 scope, manual content, management responsibilities, lifecycle processes and management review, including §§2.6, 3.2.4 and 4.1–4.3. References 24–25, 28 and 30–31 support US GMP responsibilities and controls; reference 14 supports OOS investigation; reference 29 supports data integrity; reference 32 supports validation; and reference 33 supports the chosen deficiency classification. References 26–27 identify the company-manual comparisons below. These sources support the proposed arrangements, not evidence that LipidArc has implemented them.
-
-### Accepted comparison sources
-
-- **Main structural example:** [Sanofi Global Quality Manual, Version 5.0, November 2017](https://pharm-community.com/wp-content/uploads/wpforo/attachments/1223/173-Global-Quality-Manualv50Nov2017-sanofi.pdf), contents on printed pp. 4–5 and documentation hierarchy/types in §§6.2–6.3, pp. 23–24. Company-authored historical document accessed through a third-party copy; not evidence of current Sanofi arrangements. [Sanofi India's product list](https://www.sanofi.com/en/india/our-science/pharmaceutical-products) lists Cardace Protect, a ramipril–atorvastatin combination tablet. This establishes a related-product connection, not equivalence to LipidArc's formulation or process.
-- **Document-control comparison:** [AstraZeneca India local quality manual, Version 4.0, effective 22 April 2024](https://www.astrazeneca.in/content/dam/az-in/II-2024/MCOQ%20Quality%20Manual%20for%20AstraZeneca%20India.pdf), §2.4, pp. 13–14. The manual describes documentation oversight, current-version access and records, with references to a separate document-control SOP. Its local-market GMP/GDP scope differs from LipidArc's manufacturing project; do not import its software, frequencies or organisational details as requirements.
-- **Guideline basis:** [ICH Q10 §1.8, printed p. 4](https://database.ich.org/sites/default/files/Q10_Guideline.pdf): the manual or equivalent documentation describes quality policy, system scope, quality processes and their connections, and management responsibilities. Section 1.7 supports proportionate system design. Sources reviewed on 2026-11-11.
-
-## Chapter 3 oral defence — five questions and answers
-
-These answers consolidate the discussion and the accepted report clarifications. They describe the proposed QMS, not completed company activities.
-
-### Question 1 — Why are passing QC tests insufficient for release?
-
-**Professor's question:** Your quality unit includes QA and QC. Why is passing QC testing alone insufficient to release a batch, and who makes the disposition decision?
-
-**Answer:** Repeated testing cannot itself improve batch quality or replace investigation. The quality unit reviews relevant test results, manufacturing and packaging records, deviations and investigations before deciding disposition. A later passing result cannot by itself invalidate an earlier failure. QC testing supplies evidence within this wider decision process.
-
-**Basis:** Report §§2.5, 3.1 and 3.3; references 14, 24 and 25.
-
-### Question 2 — What belongs in the manual, an SOP and a batch record?
-
-**Professor's question:** Use drying control to explain how the quality manual and supporting documents connect without duplicating their contents.
-
-**Answer:** The manual describes policy, scope, responsibilities and connected processes. SOPs describe how activities are performed; specifications define tests and acceptance criteria; manufacturing instructions specify supported drying conditions; and completed batch records show which instruction version was used and what happened. Development or validation reports retain the scientific justification. Numerical details may appear in, or be referenced by, an SOP; the distinction is each document's function, not simply whether it contains numbers.
-
-**Basis:** Report §3.2 and Table 6; references 10 and 26–28.
-
-### Question 3 — How would you correct an approved instruction?
-
-**Professor's question:** If submitted versions cannot be overwritten or deleted by routine users, how would you correct an incorrect drying instruction that is already approved?
-
-**Answer:** Submit and approve a linked replacement, preserve the older version as history, withdraw it from routine use and coordinate the effective date and training. If the instruction is incorrect, the quality unit also assesses whether to suspend its use or introduce authorised interim controls and evaluates affected batches through the deviation process. A replacement document alone does not resolve the impact of earlier use. “Superseded” identifies the older version's status without erasing its historical role.
-
-**Basis:** Report §3.2 and Table 7 items 12 and 15; references 24–25 and 28–29.
-
-### Question 4 — How would you demonstrate that training works?
-
-**Professor's question:** Choose an audit item, identify its supporting evidence and explain how you would check actual practice. How would you treat a missing record?
-
-**Answer:** For training, check attendance or completion records linked to the relevant SOP version, assessments of understanding and any practical competency assessment. Observe task performance and examine completed records to assess application. Passing product-test results alone cannot establish that a person followed the procedure. Required missing evidence warrants investigation; it is not automatically “not applicable.” In this project, describe compliance with approved instructions and operating limits, because a design space has not been established.
-
-**Basis:** Report §3.2, §3.4 and Table 7 items 9 and 13; reference 31, including 21 CFR §211.25. Chapter 2 explains the limits of the proposed design-space evidence.
-
-### Question 5 — What if deviations recur after CAPA completion?
-
-**Professor's question:** Drying deviations continue although maintenance CAPA is marked complete. What should happen next, what should management decide, and what would support closure?
-
-**Answer:** Completion of an action does not establish effectiveness. Reassess the investigation, implementation and effectiveness evidence, including whether the recurring events have the same cause, and address product impact and interim controls. Management considers further studies, revised maintenance, equipment investment or staff capability. Closure depends on evidence meeting predefined effectiveness criteria. Change assessment determines the need and scope of requalification or revalidation; every workflow revision does not automatically require full revalidation.
-
-**Basis:** Report §§3.3–3.5 and Table 7 item 20; references 10 and 32.
+The proposed structure passed the 2026-11-14 check against [ICH Q10](https://www.fda.gov/downloads/drugs/guidances/ucm073517.pdf), §§1.6–1.8, 2.1–2.7, 3.1.2, 3.2 and 4.1–4.3, and relevant [US GMP provisions](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-C/part-211), including §§211.25, 211.42, 211.63–211.68, 211.80–211.84, 211.100, 211.160, 211.165–211.166, 211.180 and 211.192. The final table also includes the subsequently approved study protocols/reports and completed batch/laboratory records under “Lifecycle quality processes”. Section 3.2 explains process relationships and explicitly connects each document type and the drying example to the manual sections.
 
 ## Chapter 2 oral defence — nine questions and answers
 
-The earlier conversation contained ten questions. Question 3 below combines the two overlapping questions about all-High priorities and their evidence; all ten topics and follow-ups remain. The answers explain the proposed project, not experiments performed or manufacturing experience acquired. Use them to practise the reasoning in your own words.
+These questions explain the proposed assessment and its scientific reasoning. Use them to practise the defence in your own words.
 
 ### Question 1 — Why wet granulation despite moisture and solid-state concerns?
 
@@ -166,7 +90,7 @@ The earlier conversation contained ten questions. Question 3 below combines the 
 
 **Follow-up defence:** With all croscarmellose added before granulation, all of it would experience wet processing. We would compare disintegration and dissolution while controlling total amount and other conditions; we cannot assume either failure or equivalence. We would also study lubricant exposure because excessive mixing can impair release in susceptible formulations.
 
-**Basis:** Report refs. 16, 21 and 22: [patent Example 1](https://patents.google.com/patent/US5686104A/en), [Zhao and Augsburger's model study](https://pubmed.ncbi.nlm.nih.gov/16544908/), and [FDA's illustrative development example, §2.3.4](https://www.pharmaexcipients.com/wp-content/uploads/2023/03/Quality-by-Design-for-ANDAs.pdf). None establishes our final addition split or mixing limit.
+**Basis:** Report refs. 15, 20 and 21: [patent Example 1](https://patents.google.com/patent/US5686104A/en), [Zhao and Augsburger's model study](https://pubmed.ncbi.nlm.nih.gov/16544908/), and [FDA's illustrative development example, §2.3.4](https://www.pharmaexcipients.com/wp-content/uploads/2023/03/Quality-by-Design-for-ANDAs.pdf). None establishes our final addition split or mixing limit.
 
 ### Question 3 — If everything is High, what has been prioritised, and what supports the ratings?
 
@@ -174,19 +98,23 @@ The earlier conversation contained ten questions. Question 3 below combines the 
 
 **Answer:** The table selects unresolved development concerns; it is not a complete risk register or an ordering of every parameter. High means that a consequential failure is plausible under the stated conditions and baseline controls do not adequately address its pathway. Omitted concerns have not automatically been assessed as Low. After defining the initial formulation and verifying incoming tests, I would investigate blend/granulation consistency, wet-hold/drying effects, and milling/lubrication/feed behaviour. That sequence reduces uncertainty in the material entering the detailed compression experiment. It is a study order based on process dependencies, not a claim that these failures are more frequent than coating or packaging failures.
 
-**Follow-up defence:** For solid form, we have reported processing changes in another atorvastatin formulation. For disintegrant and lubricant behaviour, we have model-formulation evidence. Coating and packaging judgments rely more on inferred exposure, film-performance and moisture-ingress pathways; we have not measured their likelihood. Actual formulation, equipment and packaging information must refine those judgments. “We never encountered it” is not our basis: we have no commercial batch history. Evidence could support reducing a rating; an unknown alone cannot justify either High or Low.
+**Follow-up defence:** For solid form, we have reported processing changes in another atorvastatin formulation. For disintegrant and lubricant behaviour, we have model-formulation evidence. Coating and packaging judgments rely more on inferred exposure, film-performance and moisture-ingress pathways; we have not measured their likelihood. Actual formulation, equipment and packaging information must refine those judgments. “We never encountered it” is not our basis: no commercial batch history has been supplied for this assessment. Evidence could support reducing a rating; an unknown alone cannot justify either High or Low.
 
 **Basis:** Report Tables 3–4 and [ICH Q9(R1), §§4.2–4.3 and 5.3](https://database.ich.org/sites/default/files/ICH_Q9%28R1%29_Guideline_Step4_2025_0115_0.pdf). The proposed study order is our project judgment. Coating, packaging and wet-hold likelihoods remain less product-specific than the cited material findings; the table is a preliminary assessment.
 
-### Question 4 — Why is incoming API purity Medium?
+### Question 4 — Why do incoming API purity and potency have Medium priority?
 
-**Professor's question:** Are impurities less important than particle size? What if sampling is unrepresentative or the method misses an impurity?
+**Shine’s question (2026-11-14):** How do we explain that API purity and potency have only Medium priority?
 
-**Answer:** The consequence of unacceptable impurities remains serious. The Medium investigation priority assumes representative sampling, suitable analytical methods and rejection of unsuitable incoming lots. The lower priority depends on preventing unacceptable input from entering manufacture, not on impurities being harmless or intrinsically easy to detect. If sampling or analytical coverage is inadequate, the basis for Medium fails and we must reassess it. Incoming testing also cannot exclude degradation formed later during wet granulation, drying or storage.
+**Answer:** The conditional Medium investigation priority rests on the assumed protection provided by incoming testing and rejection of unsuitable API before tablet manufacture. The potential consequences remain serious: excess impurities could affect safety, while incorrect API potency could affect the amount of atorvastatin delivered in the tablets. The baseline assumes representative sampling, suitable analytical methods, appropriate specifications and effective withholding of unsuitable lots. Together, these controls are expected to reduce the likelihood of unacceptable API entering manufacture. Further investigation focuses on confirming that sampling represents the lot, methods cover relevant impurities and assay, and material-release decisions reliably prevent unsuitable API from being used.
 
-**Follow-up defence:** “Easier to detect” is incomplete: ask which impurity, which method, which samples and what action follows the result. Detection without an effective rejection decision does not support our stated assumption.
+**Comparison with High priorities:** Under these assumptions, greater investigation priority is assigned to issues such as solid-form changes during processing, where the relationship between incoming material, manufacturing conditions and finished-tablet performance still needs to be established. Medium is the project’s conditional judgement; the adequacy of the assumed controls requires verification. Degradation arising during wet granulation, drying or storage is assessed separately.
 
-**Basis:** Report §2.2, Table 3 and the risk framework in reference 13. The adequacy of the hypothetical incoming controls still requires verification.
+**Oral-defence answer:** “We assign incoming API purity and potency a conditional Medium investigation priority because we assume representative sampling, suitable analytical methods and effective rejection of unsuitable lots. These controls are expected to reduce the likelihood of unacceptable API entering tablet manufacture. Our next task is to confirm their effectiveness; gaps in that protection would raise the investigation priority. Degradation arising during subsequent processing is assessed separately.”
+
+**Follow-up defence:** If asked about unrepresentative sampling or a method that misses a relevant impurity, explain how these gaps weaken the assumed protection and trigger reassessment. The supporting evidence must connect the impurity or potency concern to the method, samples, acceptance criteria and action taken on the result.
+
+**Basis:** Report §2.2, Table 3 and [ICH Q9(R1), §§4.3–4.4](https://database.ich.org/sites/default/files/ICH_Q9%28R1%29_Guideline_Step4_2025_0115_0.pdf), checked on 2026-11-14. ICH supports assessing likelihood and consequences with explicit assumptions and uncertainty; the particular Medium rating is the project’s judgement.
 
 ### Question 5 — Does the same moisture endpoint mean the same quality?
 
@@ -238,6 +166,50 @@ The earlier conversation contained ten questions. Question 3 below combines the 
 
 **Basis:** Report §2.5; [21 CFR 211.192](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-C/part-211/subpart-J/section-211.192), [21 CFR 211.165](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-C/part-211/subpart-I/section-211.165), and [FDA OOS guidance](https://www.fda.gov/media/158416/download).
 
+## Chapter 3 oral defence — five questions and answers
+
+These answers consolidate the discussion and the accepted report clarifications. They describe the proposed QMS, not completed company activities.
+
+### Question 1 — Why are passing QC tests insufficient for release?
+
+**Professor's question:** Your quality unit includes QA and QC. Why is passing QC testing alone insufficient to release a batch, and who makes the disposition decision?
+
+**Answer:** Repeated testing cannot itself improve batch quality or replace investigation. The quality unit reviews relevant test results, manufacturing and packaging records, deviations and investigations before deciding disposition. A later passing result cannot by itself invalidate an earlier failure. QC testing supplies evidence within this wider decision process.
+
+**Basis:** Report §§2.5, 3.1 and 3.3; references 13, 23 and 24.
+
+### Question 2 — What belongs in the manual, an SOP and a batch record?
+
+**Professor's question:** Use drying control to explain how the quality manual and supporting documents connect without duplicating their contents.
+
+**Answer:** The manual describes policy, scope, responsibilities and connected processes. SOPs describe how activities are performed; specifications define tests and acceptance criteria; manufacturing instructions specify supported drying conditions; and completed batch records show which instruction version was used and what happened. Development or validation reports retain the scientific justification. Numerical details may appear in, or be referenced by, an SOP; the distinction is each document's function, not simply whether it contains numbers.
+
+**Basis:** Report §3.2 and Table 6; references 9 and 25–27.
+
+### Question 3 — How would you correct an approved instruction?
+
+**Professor's question:** If submitted versions cannot be overwritten or deleted by routine users, how would you correct an incorrect drying instruction that is already approved?
+
+**Answer:** Submit and approve a linked replacement, preserve the older version as history, withdraw it from routine use and coordinate the effective date and training. If the instruction is incorrect, the quality unit also assesses whether to suspend its use or introduce authorised interim controls and evaluates affected batches through the deviation process. A replacement document alone does not resolve the impact of earlier use. “Superseded” identifies the older version's status without erasing its historical role.
+
+**Basis:** Report §3.2 and Table 7 items 12 and 15; references 23–24 and 27–28.
+
+### Question 4 — How would you demonstrate that training works?
+
+**Professor's question:** Choose an audit item, identify its supporting evidence and explain how you would check actual practice. How would you treat a missing record?
+
+**Answer:** For training, check attendance or completion records linked to the relevant SOP version, assessments of understanding and any practical competency assessment. Observe task performance and examine completed records to assess application. Passing product-test results alone cannot establish that a person followed the procedure. Required missing evidence warrants investigation; it is not automatically “not applicable.” In this project, describe compliance with approved instructions and operating limits, because a design space has not been established.
+
+**Basis:** Report §3.2, §3.4 and Table 7 items 9 and 13; reference 30, including 21 CFR §211.25. Chapter 2 explains the limits of the proposed design-space evidence.
+
+### Question 5 — What if deviations recur after CAPA completion?
+
+**Professor's question:** Drying deviations continue although maintenance CAPA is marked complete. What should happen next, what should management decide, and what would support closure?
+
+**Answer:** Completion of an action does not establish effectiveness. Reassess the investigation, implementation and effectiveness evidence, including whether the recurring events have the same cause, and address product impact and interim controls. Management considers further studies, revised maintenance, equipment investment or staff capability. Closure depends on evidence meeting predefined effectiveness criteria. Change assessment determines the need and scope of requalification or revalidation; every workflow revision does not automatically require full revalidation.
+
+**Basis:** Report §§3.3–3.5 and Table 7 item 20; references 9 and 31.
+
 ## Technical review and evidence needs
 
 ### Formulation and process checklist
@@ -278,38 +250,38 @@ The wet-hold microbial pathway is a development hypothesis, distinct from the ci
 ### Product background and Chapter 1
 
 - Company facts and the 30-tablet presentation come from pages 2–4 of [the supplied slides](</Users/Transparent/Downloads/DRAP 5001- Group 9 CS1_PDF.pdf>), reviewed in [[2026-11-09-company-product-source-review]]. LipidArc is fictional: founded in 2018, Hong Kong headquarters, approximately 250 employees, with stated API/tablet capabilities and US/EU/UK/China ambitions. The slides do not establish manufacturing-site locations or detailed outsourcing arrangements.
-- The 24-month shelf-life and 20–25°C storage targets come from [[2026-09-29-presentation-speaking-points#Slide 4 — current table supplied by Shine]], not the four-page company slides or an ICH-prescribed product target. The reference comparator and precise indication/subtype wording still require resolution; the slides' “familial hyperlipidaemia” wording prompted the proposed “familial hypercholesterolaemia” correction.
-- [[2026-11-09-chapter-1-review]] records the initial review. The identity-test, impurity-origin and assay/uniformity distinctions were corrected; §1.4 retained the later presentation's preliminary CQA priorities with their assumptions. These priorities are distinct from Chapter 2's specific failure scenarios. No validated FMEA scores or product results were introduced.
-- References 2–10 were checked on 2026-11-09. Public USP monograph previews were available, but the complete applicable monographs and referenced chapters were not reviewed. API and tablet specifications must remain distinct. The GLP discussion is conditional; the project does not assume a full new-drug nonclinical programme for a generic tablet.
+- The 24-month shelf-life and 20–25°C storage targets come from [[2026-09-29-presentation-speaking-points#Slide 4 — current table supplied by Shine]], not the four-page company slides or an ICH-prescribed product target. The reference comparator remains to be selected. The 2026-11-14 consistency check resolved the indication wording against LIPITOR’s US prescribing information, explicitly naming heterozygous and homozygous familial hypercholesterolaemia and retaining indication-specific treatment conditions; this clinical cross-check does not establish the fictional product’s approval.
+- [[2026-11-09-chapter-1-review]] records the initial review. The identity-test, impurity-origin and assay/uniformity distinctions were corrected; the former §1.4 retained the later presentation's preliminary CQA priorities with their assumptions. Shine removed §1.4 during Version 4 review on 2026-11-12 and assigned risk assessment to Chapter 2. No validated FMEA scores or product results were introduced.
+- Public USP monograph previews were available, but the complete applicable monographs and referenced chapters were not reviewed. API and tablet specifications must remain distinct. The earlier GLP discussion was conditional; its subsequently uncited reference was removed during the 2026-11-14 consistency check because the current report proposes no specific nonclinical safety study.
 
 ### Formulation, processing and statistical sources
 
 - [US5686104A, Example 1, steps (b)–(i)](https://patents.google.com/patent/US5686104A/en) supplies formulation and addition-sequence precedent. The film-coating paragraph follows Example 3. Its quantitative recipe and settings are not adopted, and it does not establish the current commercial Lipitor process.
 - [Salazar-Barrantes et al., 2025](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317407) studied a 0.8 kg batch of 40 mg atorvastatin calcium trihydrate Form I tablets. Its methods and conclusions describe wet granulation, but the “Tablet quality tests” paragraph says “obtained by direct compression.” Use it narrowly for reported processing-related solid-state changes, not as an unambiguous commercial-process record or evidence of performance of our 20 mg formulation. Do not transfer its acceptance limits or attribute microbial-growth findings to it.
-- The acidic-excipient compatibility study used amorphous API in binary mixtures under accelerated storage. The disintegrant and lubricant studies used model formulations. These sources support investigations, not established incompatibility or failure in our complete trihydrate formulation. Their links and qualifications are in report references 18–21 and the defence guide.
-- FDA's immediate-release development example, accessed through a hosted copy, concerns a different product. Its numerical settings, ratings and successful screening results are not ours. NIST supports the statistical principles; the nine-combination force–speed study is a project proposal. Report references 22–23 and Questions 6–8 give the sources.
-- Report reference 24 links the US requirements for in-process controls, release testing, stability and record review. The tablet-specific procedures and deviation example are our proposed application. The studies and control strategy do not establish regulatory approval, completed validation or bioequivalence.
+- The acidic-excipient compatibility study used amorphous API in binary mixtures under accelerated storage. The disintegrant and lubricant studies used model formulations. These sources support investigations, not established incompatibility or failure in our complete trihydrate formulation. Their links and qualifications are in report references 17–20 and the defence guide.
+- FDA's immediate-release development example, accessed through a hosted copy, concerns a different product. Its numerical settings, ratings and successful screening results are not ours. NIST supports the statistical principles; the nine-combination force–speed study is a project proposal. Report references 21–22 and Questions 6–8 give the sources.
+- Report reference 23 links the US requirements for in-process controls, release testing, stability and record review. The tablet-specific procedures and deviation example are our proposed application. The studies and control strategy do not establish regulatory approval, completed validation or bioequivalence.
 
 ### Alternative-route background — drafting notes only
 
 Shine instructed that dry granulation be discussed only in these notes. [Lyytikäinen et al., 2023, §2](https://doi.org/10.1016/j.ijpharm.2023.123509) describes roller compaction in the commercial process for Zentiva atorvastatin 10 mg tablets. This is an alternative commercial precedent; wet granulation remains our selected route. The reviewed sources do not establish that wet granulation is the most common industry route for atorvastatin. This source and the 2025 wet-processing study were checked on 2026-11-10.
 
-## Chapter 2 review outcome
+### Quality-manual comparison sources
 
-Chapter 2 was drafted in five sections, then reduced from approximately 3,665 to 1,936 words. The study and control tables were integrated into prose, leaving the two risk tables. Oral-defence review then clarified the route's expected benefit, addition-stage rationale, conditional purity rating, study order within High, and limits of equal moisture endpoints and passing experimental settings. The settled chapter is approximately 2,015 words, about 45% shorter than its first draft. Counts include headings/table text and exclude references and Markdown punctuation; they do not establish compliance with final page limits.
+- **Main structural example:** [Sanofi Global Quality Manual, Version 5.0, November 2017](https://pharm-community.com/wp-content/uploads/wpforo/attachments/1223/173-Global-Quality-Manualv50Nov2017-sanofi.pdf), contents on printed pp. 4–5 and documentation hierarchy/types in §§6.2–6.3, pp. 23–24. Company-authored historical document accessed through a third-party copy; not evidence of current Sanofi arrangements. [Sanofi India's product list](https://www.sanofi.com/en/india/our-science/pharmaceutical-products) lists Cardace Protect, a ramipril–atorvastatin combination tablet. This establishes a related-product connection, not equivalence to LipidArc's formulation or process.
+- **Document-control comparison:** [AstraZeneca India local quality manual, Version 4.0, effective 22 April 2024](https://www.astrazeneca.in/content/dam/az-in/II-2024/MCOQ%20Quality%20Manual%20for%20AstraZeneca%20India.pdf), §2.4, pp. 13–14. The manual describes documentation oversight, current-version access and records, with references to a separate document-control SOP. Its local-market GMP/GDP scope differs from LipidArc's manufacturing project; do not import its software, frequencies or organisational details as requirements.
+- **Guideline basis:** [ICH Q10 §1.8, printed p. 4](https://database.ich.org/sites/default/files/Q10_Guideline.pdf): the manual or equivalent documentation describes quality policy, system scope, quality processes and their connections, and management responsibilities. Section 1.7 supports proportionate system design. Sources reviewed on 2026-11-11.
 
-The nine-question guide retains the detailed defence, while this consolidated note replaces repeated section updates and superseded instructions to defer trimming. Citations, section/table references, the wet route and all seven potential CQAs were checked. The substantive introduction and Chapter 1 were retained for the separate alignment tasks below.
+## Submission follow-ups
 
-## Remaining work and next step
+The report review is settled. The following evidence and submission tasks remain distinct from approval of the report’s current content:
 
-1. **Review the complete narrative.** The first whole draft, including the conclusion, is complete as Final, Version 3. Review coherence across the introduction, three chapters and conclusion, checking that the links between quality objectives, development evidence and practical manufacturing remain clear and consistent.
-2. **Align earlier report scope and priorities.** Revise the introduction/§1.1 promises of multiple-market and detailed API-manufacturing assessment to match the agreed scope. Resolve indication wording and distinguish §1.4's inherited CQA priorities from Chapter 2's failure scenarios. Review QTPP-to-CQA mapping and retain all seven potential CQAs.
-3. **Resolve technical and source gaps.** Complete the checklist above and review the full applicable pharmacopoeial text. Locate the original three case-stage instructions and complete presentation materials before claiming full assignment coverage; the four-page company PDF is not the complete set.
-4. **Check the complete submission.** Review repetition, source coverage and length across the completed draft. The assignment specifies at least seven narrative pages and a ten-page maximum, but its references clause also mentions a five-page minimum. Clarify that discrepancy and whether references count toward the maximum; check the formatted artifact rather than infer page compliance from word count.
+- Complete the technical checklist above, identify the reference comparator and consult the full applicable USP–NF monographs, General Notices and general chapters.
+- Check the three original case-stage instructions and complete presentation materials before claiming full assignment coverage.
+- Add all group-member names, the required company/product title, date and page numbers to the submission artifact. Apply the specified 11–12-point font, 1.15 spacing and one-inch margins, and check actual page length.
+- Clarify the brief’s seven-page narrative minimum versus its later five-page reference exclusion, and whether references count towards the ten-page maximum. The final-assignment source remains [[2026-11-09-final-group-paper-and-presentation-requirements]].
 
-Full-report review is now proceeding paragraph by paragraph with Shine. Both documents are Draft, Version 4. Retain the completed Version 3 history and Last updated dates during interim edits; record the completed review batch when Shine confirms it is settled.
-
-## Source map for continued work
+## Supporting records
 
 | Record | Main contribution |
 |:-------|:------------------|
@@ -331,3 +303,4 @@ Full-report review is now proceeding paragraph by paragraph with Shine. Both doc
 | 1 | 2026-11-10 | Consolidated Chapter 2 decisions, review outcomes, nine-question defence, technical and source limitations, and remaining work; removed duplicate progress notes and marked this version Final at Shine’s request. |
 | 2 | 2026-11-11 | Consolidated Chapter 3 decisions, source limits, editorial review and five-question oral-defence guidance; recorded the accepted clarifications and remaining report work, and marked Version 2 Final at Shine’s request. |
 | 3 | 2026-11-12 | Recorded the approved conclusion and completion of the first whole draft, consolidated the outstanding full-report review tasks, and marked Version 3 Final at Shine’s request. |
+| 4 | 2026-11-14 | Completed the whole-report review and consistency corrections, removed completed progress trackers and repeated updates, retained defence material and evidence needs with current reference numbers, and marked the condensed notes Final at Shine’s request. |
